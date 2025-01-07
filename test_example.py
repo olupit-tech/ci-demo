@@ -3,4 +3,4 @@ def test_example():
 
 if __name__ == "__main__":
     test_example()
-    print("All tests newly passed!")
+    print("All tests newly passed out!")
